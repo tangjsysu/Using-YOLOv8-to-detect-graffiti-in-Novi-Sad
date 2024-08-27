@@ -7,7 +7,7 @@ This project utilizes the YOLOv8 model to identify graffiti in Google Street Vie
 ### Objectives
 
 - **Graffiti Detection**: Utilize YOLOv8 to detect graffiti in Google Street View images.
-- **Data Collection**: Analyze graffiti content and distribution in Novi Sad.
+- **Data Collection and Analysis**: Analyze graffiti content and distribution in Novi Sad.
 - **Method Comparison**: Compare the strengths and weaknesses of field trips versus Google Street View for graffiti data collection.
 
 #### Google Street View
