@@ -1,6 +1,7 @@
 # Using-YOLOv8-to-detect-graffiti-in-Novi-Sad
 
-This project utilizes the YOLOv8 model to identify graffiti in Google Street View images, aiming to capture the content and distribution of graffiti in Novi Sad through an entirely online approach. <a href:"https://www.google.com/maps/d/u/0/viewer?ll=45.23760500000006%2C19.845266999999982&z=15&mid=1pmnVhNtvPV7KVbVvoC9QZcNXJPrrxlc">Link to the map<a>
+This project utilizes the YOLOv8 model to identify graffiti in Google Street View images, aiming to capture the content and distribution of graffiti in Novi Sad through an entirely online approach. [Link to the map](https://www.google.com/maps/d/u/0/viewer?ll=45.23760500000006%2C19.845266999999982&z=15&mid=1pmnVhNtvPV7KVbVvoC9QZcNXJPrrxlc)
+
 
 ## Project Overview
 
